@@ -1,4 +1,4 @@
-<h1 align="center"> Crud basico utilizando Spring JPA </h1>
+<h1 align="center"> Git/Github atividade </h1>
 <p align="center"> Atividade criada para por em pratica os conhecimentos de git </p>
 <h2 align="center">Tecnologias usadas</h2>
 <p align="center">
